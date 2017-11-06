@@ -1,0 +1,6 @@
+2017-10-29 16:00:00.170 INFO  com.liangxin.utils.Log 25 info - com.liangxin.uiframework.DriverFactory: 杀死Chrome浏览器进程成功
+2017-10-29 16:00:10.513 INFO  com.liangxin.utils.Log 25 info - com.liangxin.uiframework.DriverUtils: 打开网址http://127.0.0.1:81/zentao
+2017-10-29 16:00:10.756 INFO  com.liangxin.utils.Log 25 info - com.liangxin.uiframework.WebElementUtils: 在元素：用户名输入框输入：admin
+2017-10-29 16:00:10.981 INFO  com.liangxin.utils.Log 25 info - com.liangxin.uiframework.WebElementUtils: 在元素：密码输入框输入：liangxin123456
+2017-10-29 16:00:12.209 INFO  com.liangxin.utils.Log 25 info - com.liangxin.uiframework.WebElementUtils: 点击元素：登录按钮
+2017-10-29 16:00:12.630 INFO  com.liangxin.utils.Log 25 info - com.liangxin.uiframework.WebElementUtils: 获取元素：用户菜单文本值

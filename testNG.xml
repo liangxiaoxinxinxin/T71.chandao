@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<suite name="suite1">
+     <test name="test1">
+      <classes>
+<class name="com.liangxin.testcase.loginTest" />
+
+</classes>
+      </test>
+<listeners>
+<listener class-name="org.uncommons.reporting.HTMLReporter"/>
+<listener class-name="org.commons.reporting.JUnitXMLReporting"/>
+<listener class-name="com.liangxin.utils.RetryListener"/>
+<listener class-name="com.liangxin.utils.TestNGListener"/>
+   </listeners>
+</suite>
